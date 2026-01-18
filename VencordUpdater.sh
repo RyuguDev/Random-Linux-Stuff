@@ -19,6 +19,6 @@ fi
 
 pnpm install
 pnpm build
-pnpm inject
+sudo pnpm inject
 
 echo "Done."
